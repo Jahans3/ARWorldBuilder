@@ -1,6 +1,6 @@
 # ARWorldBuilder
 
-Augmented reality app utilising ARKit
+Augmented reality app utilising ARKit via `react-native-arkit`
 
 ## Setup
 
